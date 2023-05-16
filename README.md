@@ -15,7 +15,8 @@ Bankist-App is a banking application that allows users to manage their accounts,
 To run the Bankist-App, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-  git clone https://github.com/Somayeh-Kargosha/Bankist-App.git
+  
+     git clone https://github.com/Somayeh-Kargosha/Bankist-App.git
  
 2. Open the `index.html` file in your web browser.
 

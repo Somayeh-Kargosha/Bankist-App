@@ -1,30 +1,5 @@
 # Bankist-App
 
-
-Bankist-App is a banking application that allows users to manage their accounts, perform transactions, 
-and track their financial activities. It provides a user-friendly interface for performing various banking operations.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-
-## Installation
-
-To run the Bankist-App, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/Somayeh-Kargosha/Bankist-App.git
-
-
-# Bankist-App
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Bankist-App is a banking application that allows users to manage their accounts, perform transactions, and track their financial activities. It provides a user-friendly interface for performing various banking operations.
 
 ## Table of Contents
@@ -33,7 +8,6 @@ Bankist-App is a banking application that allows users to manage their accounts,
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
@@ -41,8 +15,8 @@ Bankist-App is a banking application that allows users to manage their accounts,
 To run the Bankist-App, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-
-
+  git clone https://github.com/Somayeh-Kargosha/Bankist-App.git
+ 
 2. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -78,13 +52,3 @@ Contributions are welcome! If you find a bug or have an idea for a new feature, 
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-This project was inspired by the need for a modern and user-friendly banking application. Special thanks to the original author for creating and sharing this useful app.
